@@ -79,7 +79,7 @@ I am Rennie Maharaj, the writer. I habor a passion for learning and writing abou
 
 ## 💬 Quote
 
-*"I will win. If I don't i'll reflect on my loss, in solitude will I seek solace, but I will win" - Steve Jobs*
+*"I will win. If I don't i'll reflect on my loss, in solitude will I seek solace, but I will win" - Rennie Maharaj*
 
 <!--
 **yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

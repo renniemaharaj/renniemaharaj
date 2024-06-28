@@ -1,17 +1,17 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Rennie Maharaj! 👋
 
 ![Profile views](https://gpvc.arturio.dev/yourusername)
 
-I am [Rennie Maharaj], the writer. I habor a passion for learning and writing about the things I have learnt. I love building software solutions. I am currently training for a Report Developer Role for. Welcome to my GitHub profile!
+I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I have learnt. I love building software solutions. I am currently training for a Report Developer Role for. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Golang Web Apps]([project link](https://github.com/renniemaharaj/webapps))
-- 🌱 I’m currently learning [Artificial Intellgience Programming]
-- 👯 I’m looking to collaborate on [Open sourced, software solutions]
-- 🤔 I’m looking for help with [Golang Web Apps]
-- 💬 Ask me about [Writing Websites Electronics Computers]
-- 📫 How to reach me: [rvesprey@gmail.com or 4thewriterco@gmail.com]
+- 🔭 I’m currently working on Golang Web Apps ([project link](https://github.com/renniemaharaj/webapps))
+- 🌱 I’m currently learning Artificial Intellgience Programming
+- 👯 I’m looking to collaborate on Open sourced, software solutions
+- 🤔 I’m looking for help with Golang Web Apps
+- 💬 Ask me about Writing Websites Electronics Computers
+- 📫 How to reach me: rvesprey@gmail.com or 4thewriterco@gmail.com
 
 ## 🛠️ Technologies & Tools
 
@@ -26,9 +26,9 @@ I am [Rennie Maharaj], the writer. I habor a passion for learning and writing ab
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=renniemaharaj&show_icons=true&hide_border=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renniemaharaj&layout=compact&theme=radical&hide_border=true)
 
 ## 🔗 Connect with Me
 
@@ -71,7 +71,7 @@ I am [Rennie Maharaj], the writer. I habor a passion for learning and writing ab
 
 ## 📅 Recent Activity-->
 
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity
 1. ❗️ Closed issue [#1](https://github.com/yourusername/reponame/issues/1) in [renniemaharaj/reponame](https://github.com/yourusername/reponame)
 2. 🎉 Merged PR [#2](https://github.com/yourusername/reponame/pull/2) in [renniemaharaj/reponame](https://github.com/yourusername/reponame)
 3. 💪 Opened PR [#3](https://github.com/yourusername/reponame/pull/3) in [renniemaharaj/reponame](https://github.com/yourusername/reponame)

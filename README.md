@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/yourusername)
 
-I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I have learnt. I love building software solutions. I am currently training for a Report Developer Role for. Welcome to my GitHub profile!
+I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I have learnt. I love building software solutions. I am currently training for a Report Developer position. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Rennie Maharaj! 👋
 
-![Profile views](https://gpvc.arturio.dev/yourusername)
+![Profile views](https://gpvc.arturio.dev/renniemaharaj)
 
 I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I have learnt. I love building software solutions. I am currently training for a Report Developer position. Welcome to my GitHub profile!
 

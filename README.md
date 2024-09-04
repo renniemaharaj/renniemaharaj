@@ -2,27 +2,30 @@
 
 ![Profile views](https://gpvc.arturio.dev/renniemaharaj)
 
-I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I have learnt. I love building software solutions. I am currently training for a Report Developer position. Welcome to my GitHub profile!
+I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I have learnt. I love building software solutions. I am currently employed in the role of Junior Software Consultant
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Golang Web Apps ([project link](https://github.com/renniemaharaj/webapps))
+- 🔭 I’m currently working on Golang Document Representor ([project link](https://github.com/renniemaharaj/Document-Representor))
 - 🌱 I’m currently learning Artificial Intellgience Programming
 - 👯 I’m looking to collaborate on Open sourced, software solutions
-- 🤔 I’m looking for help with Golang Web Apps
+- 🤔 I’m looking for help with Document-Representor
 - 💬 Ask me about Writing Websites Electronics Computers
 - 📫 How to reach me: rvesprey@gmail.com or 4thewriterco@gmail.com
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+[![Python](https://img.shields.io/badge/python-3.11-blue?style=flat&logo=python)](https://www.python.org/)
+[![Golang](https://img.shields.io/badge/go-1.21-green?style=flat&logo=go)](https://go.dev/)
+[![C#](https://img.shields.io/badge/c%23-11.0-orange?style=flat&logo=C%23)](https://dotnet.microsoft.com/)
+[![Java](https://img.shields.io/badge/java-17-brightgreen?style=flat&logo=java)](https://www.oracle.com/java/)
+[![Rust](https://img.shields.io/badge/rust-1.74-purple?style=flat&logo=rust)](https://www.rust-lang.org/)
+[![Git](https://img.shields.io/badge/git-%F?style=flat&logo=git)](https://github.com/)
+[![CSS](https://img.shields.io/badge/css-latest-blueviolet?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/html-5.4-yellow?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![PHP](https://img.shields.io/badge/php-8.2-violet?style=flat&logo=php)](https://www.php.net/)
+[![MongoDB](https://img.shields.io/badge/mongodb-6.1-darkgreen?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://www.javascript.com/)
 
 ## 📈 GitHub Stats
 

@@ -17,7 +17,6 @@ I am Rennie Maharaj, the writer. I habor a passion for learning and writing abou
 [![C#](https://img.shields.io/badge/c%23-11.0-orange?style=flat&logo=C%23)](https://dotnet.microsoft.com/)
 [![Java](https://img.shields.io/badge/java-17-brightgreen?style=flat&logo=java)](https://www.oracle.com/java/)
 [![Rust](https://img.shields.io/badge/rust-1.74-purple?style=flat&logo=rust)](https://www.rust-lang.org/)
-[![Git](https://img.shields.io/badge/git-%F?style=flat&logo=git)](https://github.com)
 [![CSS](https://img.shields.io/badge/css-latest-blueviolet?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/html-5.4-yellow?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![PHP](https://img.shields.io/badge/php-8.2-violet?style=flat&logo=php)](https://www.php.net/)

@@ -1,16 +1,13 @@
 # Hi there, I'm Rennie Maharaj! 👋
 
-![Profile views](https://gpvc.arturio.dev/renniemaharaj)
-
 I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I have learnt. I love building software solutions. I am currently employed in the role of Junior Software Consultant
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Golang Document Representor ([project link](https://github.com/renniemaharaj/Document-Representor))
-- 🌱 I’m currently learning Artificial Intellgience Programming
+- 🔭 I’m currently working on Golang Document Representor ([Document-Representor](https://github.com/renniemaharaj/Document-Representor))
+- 🌱 I’m currently learning Rust & MongoDB
 - 👯 I’m looking to collaborate on Open sourced, software solutions
 - 🤔 I’m looking for help with Document-Representor
-- 💬 Ask me about Writing Websites Electronics Computers
 - 📫 How to reach me: rvesprey@gmail.com or 4thewriterco@gmail.com
 
 ## 🛠️ Technologies & Tools

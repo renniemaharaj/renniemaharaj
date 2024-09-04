@@ -1,6 +1,6 @@
 # Hi there, I'm Rennie Maharaj! 👋
 
-I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I have learnt. I love building software solutions. I am currently employed in the role of Junior Software Consultant
+I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I learn. I love building software solutions. I am currently employed in the role of Junior Software Consultant
 
 ## 🚀 About Me
 

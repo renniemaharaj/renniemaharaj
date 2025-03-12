@@ -1,14 +1,14 @@
 # Hi there, I'm Rennie Maharaj! 👋
 
-I am Rennie Maharaj, the writer. I habor a passion for learning and writing about the things I learn. I love building software solutions. I am currently employed in the role of Junior Software Consultant
+I am Rennie Maharaj, the dev behind The Writer Company https://www.thewriterco.com. Welcome to my github readme
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Golang Document Representor ([Document-Representor](https://github.com/renniemaharaj/Document-Representor))
-- 🌱 I’m currently learning Rust & MongoDB
+- 🔭 I’m currently working on The Writer Company ([TheWriterCo](https://www.thewriterco.com))
+- 🌱 I’m currently learning Rust & AI technology
 - 👯 I’m looking to collaborate on Open sourced, software solutions
-- 🤔 I’m looking for help with Document-Representor
-- 📫 How to reach me: rvesprey@gmail.com or 4thewriterco@gmail.com
+- 🤔 I’m looking for help with Google Gemini Pool Manager (in Go) ([google-gemini-pool](https://github.com/renniemaharaj/google-gemini-pool))
+- 📫 How to reach me: rvesprey@gmail.com
 
 ## 🛠️ Technologies & Tools
 
@@ -22,6 +22,11 @@ I am Rennie Maharaj, the writer. I habor a passion for learning and writing abou
 [![PHP](https://img.shields.io/badge/php-8.2-violet?style=flat&logo=php)](https://www.php.net/)
 [![MongoDB](https://img.shields.io/badge/mongodb-6.1-darkgreen?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-18.2-blue?style=flat&logo=react)](https://react.dev/)
+[![SolidJS](https://img.shields.io/badge/solid.js-1.0-blue?style=flat&logo=solid)](https://solidjs.com/)
+[![AI](https://img.shields.io/badge/AI-OpenAI-blue?style=flat&logo=openai)](https://openai.com/)
+[![API](https://img.shields.io/badge/API-REST%20%7C%20GraphQL-orange?style=flat&logo=graphql)](https://graphql.org/)
 
 ## 📈 GitHub Stats
 

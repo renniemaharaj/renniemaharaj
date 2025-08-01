@@ -10,21 +10,41 @@ I am proficient in the web: Vanilla Javascript + PHP + Javascript frameworks + T
 
 ## Technologies & Tools
 
-[![Python](https://img.shields.io/badge/python-3.11-blue?style=flat&logo=python)](https://www.python.org/)
-[![Golang](https://img.shields.io/badge/go-1.21-green?style=flat&logo=go)](https://go.dev/)
-[![C#](https://img.shields.io/badge/c%23-11.0-orange?style=flat&logo=C%23)](https://dotnet.microsoft.com/)
-[![Java](https://img.shields.io/badge/java-17-brightgreen?style=flat&logo=java)](https://www.oracle.com/java/)
-[![Rust](https://img.shields.io/badge/rust-1.74-purple?style=flat&logo=rust)](https://www.rust-lang.org/)
-[![CSS](https://img.shields.io/badge/css-latest-blueviolet?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML](https://img.shields.io/badge/html-5.4-yellow?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Python](https://img.shields.io/badge/python-3.11-blue?style=flat&logo=python)](https://www.python.org/)  
+[![Golang](https://img.shields.io/badge/go-1.21-green?style=flat&logo=go)](https://go.dev/)  
+[![C#](https://img.shields.io/badge/c%23-11.0-orange?style=flat&logo=C%23)](https://dotnet.microsoft.com/)  
+[![Java](https://img.shields.io/badge/java-17-brightgreen?style=flat&logo=java)](https://www.oracle.com/java/)  
+[![Rust](https://img.shields.io/badge/rust-1.74-purple?style=flat&logo=rust)](https://www.rust-lang.org/)  
 [![PHP](https://img.shields.io/badge/php-8.2-violet?style=flat&logo=php)](https://www.php.net/)
-[![MongoDB](https://img.shields.io/badge/mongodb-6.1-darkgreen?style=flat&logo=mongodb)](https://www.mongodb.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/react-18.2-blue?style=flat&logo=react)](https://react.dev/)
-[![SolidJS](https://img.shields.io/badge/solid.js-1.0-blue?style=flat&logo=solid)](https://solidjs.com/)
-[![AI](https://img.shields.io/badge/AI-OpenAI-blue?style=flat&logo=openai)](https://openai.com/)
-[![API](https://img.shields.io/badge/API-REST%20%7C%20GraphQL-orange?style=flat&logo=graphql)](https://graphql.org/)
+
+[![HTML](https://img.shields.io/badge/html-5.4-orange?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/css-3-blue?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/javascript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)  
+[![TypeScript](https://img.shields.io/badge/typescript-5-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)  
+[![React](https://img.shields.io/badge/react-18.2-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)  
+[![SolidJS](https://img.shields.io/badge/solid.js-1.0-2c4f7c?style=flat&logo=solid)](https://solidjs.com/)  
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+
+[![MongoDB](https://img.shields.io/badge/mongodb-6.1-darkgreen?style=flat&logo=mongodb)](https://www.mongodb.com/)  
+[![MySQL](https://img.shields.io/badge/mysql-8.0-4479A1?style=flat&logo=mysql)](https://www.mysql.com/)  
+[![MariaDB](https://img.shields.io/badge/mariadb-10.6-003545?style=flat&logo=mariadb)](https://mariadb.org/)  
+[![SQLite](https://img.shields.io/badge/sqlite-3.41-003B57?style=flat&logo=sqlite)](https://www.sqlite.org/)
+
+[![Docker](https://img.shields.io/badge/docker-24.0-2496ED?style=flat&logo=docker)](https://www.docker.com/)  
+[![WSL](https://img.shields.io/badge/WSL2-ubuntu-orange?style=flat&logo=linux)](https://docs.microsoft.com/en-us/windows/wsl/)  
+[![Frappe](https://img.shields.io/badge/frappe-framework-009999?style=flat&logo=frappe)](https://frappeframework.com/)  
+[![ERPNext](https://img.shields.io/badge/ERPNext-develop-3B82F6?style=flat&logo=erpnext)](https://erpnext.com/)  
+[![BIRT](https://img.shields.io/badge/BIRT-Eclipse-1f4266?style=flat&logo=eclipse-foundation)](https://www.eclipse.org/birt/)
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4.5-blue?style=flat&logo=openai)](https://openai.com/)  
+[![Gemini](https://img.shields.io/badge/Google%20Gemini-Pro-4285F4?style=flat&logo=google)](https://deepmind.google/technologies/gemini/)  
+[![Anthropic](https://img.shields.io/badge/Anthropic-Claude-222222?style=flat&logo=anthropic)](https://www.anthropic.com/)  
+[![Hugging Face](https://img.shields.io/badge/huggingface-transformers-yellow?style=flat&logo=huggingface)](https://huggingface.co/)  
+[![LangChain](https://img.shields.io/badge/langchain-AI-000000?style=flat&logo=chainlink)](https://www.langchain.com/)
+
+[![GraphQL](https://img.shields.io/badge/graphql-API-E10098?style=flat&logo=graphql)](https://graphql.org/)  
+[![REST API](https://img.shields.io/badge/RESTful%20API-standard-lightgrey?style=flat&logo=json)](https://restfulapi.net/)  
+[![gRPC](https://img.shields.io/badge/gRPC-protobuf-4285F4?style=flat&logo=google)](https://grpc.io/)
 
 ## GitHub Stats
 

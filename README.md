@@ -1,6 +1,8 @@
 # Hi there, I'm Rennie Maharaj!
 
-I am proficient in the web: Vanilla Javascript + PHP + Javascript frameworks + Typescript, along with all of the tools that make web development more developer-friendly. I am proficient in Golang development and the Golang ecosystem. I am also familiar with Frappe and ERPNEXT as an alternative to the non-monolith stacks. 
+I am proficient in web development, including Vanilla JavaScript, PHP, modern JavaScript frameworks, and TypeScript, along with the tooling that makes web development efficient and developer-friendly. I am proficient in Go (Golang) and its ecosystem. I also have strong experience with the Frappe monolithic Python framework and ERPNext as an alternative to non-monolithic stacks.
+
+Additionally, I am well-versed in containerization and infrastructure tools such as Docker, Docker Desktop, Nginx, Superset, and Linux distributions, and I have a solid foundation in computer systems and electronics.
 
 ## About Me
 

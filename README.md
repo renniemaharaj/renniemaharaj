@@ -1,6 +1,6 @@
 # Rennie Maharaj
 
-**Software Engineer | Go · TypeScript · Systems & Integrations**
+**Software Engineer & Integrations Consultant | Go · TypeScript · Systems**
 
 I build practical software across web applications, backend services, developer tools, and enterprise integrations. My work focuses on maintainable architecture, efficient tooling, and systems that are straightforward to operate.
 
@@ -17,7 +17,15 @@ I work primarily with **Go, TypeScript, React, PostgreSQL, and Linux**, alongsid
 **Infrastructure & Analytics**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Superset](https://img.shields.io/badge/Apache%20Superset-20A7C9?style=flat-square&logo=apachesuperset&logoColor=white)
 
-### Work & Open Source
+### Professional Experience
+
+**Software Engineer & Integrations Consultant — HRTM Consulting Inc. (2024–Present)**
+
+- Develop Telestaff configuration and automation tools, including personnel data imports, validation, and system integrations.
+- Build data visualization, reporting, and analytics solutions for operational and staffing data.
+- Work on payroll integrations, ERPNext/Frappe solutions, and workflow automation.
+
+### Projects & Open Source
 
 - **[Skaia](https://github.com/renniemaharaj/skaia)** — full-stack web platform built with Go, React, TypeScript, and PostgreSQL.
 - **[Chronicle](https://github.com/renniemaharaj/chronicle)** — local research workspace for source-backed, interactive timelines and stories.

@@ -19,12 +19,14 @@ I work primarily with **Go, TypeScript, React, PostgreSQL, and Linux**, alongsid
 
 ### Work & Open Source
 
-- **[The Writer Company](https://www.thewriterco.com)** — software development and product engineering.
 - **[Skaia](https://github.com/renniemaharaj/skaia)** — full-stack web platform built with Go, React, TypeScript, and PostgreSQL.
+- **[Chronicle](https://github.com/renniemaharaj/chronicle)** — local research workspace for source-backed, interactive timelines and stories.
+- **[Windows VM](https://github.com/renniemaharaj/windowsvm)** — QEMU/KVM launcher and automation tools for Windows on Linux.
+- **[Superset Docker](https://github.com/renniemaharaj/superset-docker)** — configurable Apache Superset deployment with PostgreSQL and BigQuery support.
 - **[JVMS](https://github.com/ystyle/jvms)** — open-source contributions to Java version management, tooling, and terminal UI.
 
 Open to collaborating on useful, well-engineered open-source software.
 
 ### Contact
 
-[Website](https://thewriterco.com) · [LinkedIn](https://linkedin.com/in/renniemaharaj) · [Email](mailto:rvesprey@gmail.com)
+[LinkedIn](https://linkedin.com/in/renniemaharaj) · [Email](mailto:rvesprey@gmail.com)

@@ -27,12 +27,17 @@ I work primarily with **Go, TypeScript, React, PostgreSQL, and Linux**, alongsid
 
 ### Projects & Open Source
 
-- **[Skaia](https://github.com/renniemaharaj/skaia)** — full-stack web platform built with Go, React, TypeScript, and PostgreSQL.
-- **[Chronicle](https://github.com/renniemaharaj/chronicle)** — local research workspace for source-backed, interactive timelines and stories.
-- **[Aircon](https://github.com/renniemaharaj/aircon)** - Personal encrypted local networks for teams, groups and communities. Aircon connects nearby Android and Linux devices over Wi-Fi, including Wi-Fi Direct, without internet, Bluetooth, or central accounts. Both platforms use the same Go engine for identity, approval and encryption.
-- **[Windows VM](https://github.com/renniemaharaj/windowsvm)** — QEMU/KVM launcher and automation tools for Windows on Linux.
-- **[Superset Docker](https://github.com/renniemaharaj/superset-docker)** — configurable Apache Superset deployment with PostgreSQL and BigQuery support.
-- **[JVMS](https://github.com/ystyle/jvms)** — open-source contributions to Java version management, tooling, and terminal UI.
+- **[Skaia](https://github.com/renniemaharaj/skaia)** — Multi-tenant full-stack platform built with Go, React, TypeScript, and PostgreSQL. Features real-time communication, modular services, tenant isolation, and automated infrastructure orchestration.
+
+- **[Aircon](https://github.com/renniemaharaj/aircon)** — Decentralized, encrypted local networking platform connecting Android and Linux devices over Wi-Fi and Wi-Fi Direct without internet, Bluetooth, or central accounts. Powered by a shared Go engine for identity, secure communication, device discovery, file sharing, and experimental mesh routing.
+
+- **[Chronicle](https://github.com/renniemaharaj/chronicle)** — AI-powered research platform that investigates subjects, evaluates historical evidence, and reconstructs source-backed interactive timelines, relationships, maps, and narrated stories.
+
+- **[JVMS](https://github.com/ystyle/jvms)** — Open-source contributions to Java version management, including [platform/provider architecture](https://github.com/ystyle/jvms/pull/78), [JDK provider streaming](https://github.com/ystyle/jvms/pull/77), [concurrency and cache fixes](https://github.com/ystyle/jvms/pull/76), and [terminal UI development](https://github.com/ystyle/jvms/pull/75). [View all my pull requests](https://github.com/ystyle/jvms/pulls?q=author%3Arenniemaharaj).
+
+- **[Windows VM](https://github.com/renniemaharaj/windowsvm)** — QEMU/KVM virtualization and automation toolkit for running Windows on Linux, featuring host integration, file sharing, and MCP-based agent controls.
+
+- **[Superset Docker](https://github.com/renniemaharaj/superset-docker)** — Containerized Apache Superset deployment with PostgreSQL, Redis, Nginx, and Google BigQuery integration.
 
 Open to collaborating on useful, well-engineered open-source software.
 

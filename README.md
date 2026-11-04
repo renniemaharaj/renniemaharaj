@@ -29,6 +29,7 @@ I work primarily with **Go, TypeScript, React, PostgreSQL, and Linux**, alongsid
 
 - **[Skaia](https://github.com/renniemaharaj/skaia)** — full-stack web platform built with Go, React, TypeScript, and PostgreSQL.
 - **[Chronicle](https://github.com/renniemaharaj/chronicle)** — local research workspace for source-backed, interactive timelines and stories.
+- **[ARICON](https://github.com/renniemaharaj/aircon)** - Personal encrypted local networks for teams, groups and communities. Aircon connects nearby Android and Linux devices over Wi-Fi, including Wi-Fi Direct, without internet, Bluetooth, or central accounts. Both platforms use the same Go engine for identity, approval and encryption.
 - **[Windows VM](https://github.com/renniemaharaj/windowsvm)** — QEMU/KVM launcher and automation tools for Windows on Linux.
 - **[Superset Docker](https://github.com/renniemaharaj/superset-docker)** — configurable Apache Superset deployment with PostgreSQL and BigQuery support.
 - **[JVMS](https://github.com/ystyle/jvms)** — open-source contributions to Java version management, tooling, and terminal UI.

@@ -27,7 +27,7 @@ I work primarily with **Go, TypeScript, React, PostgreSQL, and Linux**, alongsid
 
 ### Projects & Open Source
 
-- **[Skaia](https://github.com/renniemaharaj/skaia)** - Multi-tenant full-stack platform built with Go, React, TypeScript, and PostgreSQL. Features real-time communication, modular services, tenant isolation, and automated infrastructure orchestration.
+- **[Go Web Framework](https://github.com/renniemaharaj/go-web-framework)** - High-performance, multi-tenant platform powered by Go. Its React frontend uses atomic Jotai state, real-time synchronization, and server-injected SEO to combine fast navigation with search-friendly public pages.
 - **[Aircon](https://github.com/renniemaharaj/aircon)** - Decentralized, encrypted local networking platform connecting Android and Linux devices over Wi-Fi and Wi-Fi Direct without internet, Bluetooth, or central accounts. Powered by a shared Go engine for identity, secure communication, device discovery, file sharing, and experimental mesh routing.
 - **[Chronicle](https://github.com/renniemaharaj/chronicle)** - AI-powered research platform that investigates subjects, evaluates historical evidence, and reconstructs source-backed interactive timelines, relationships, maps, and narrated stories.
 - **[Go API Kit](https://github.com/renniemaharaj/go-api-kit)** - Lightweight Go HTTP framework built around the standard `net/http` ecosystem, featuring ergonomic routing, middleware, JSON handling, and secure static file serving. Enables React, Vite, and other frontend applications to run on a standalone Go server with minimal configuration.

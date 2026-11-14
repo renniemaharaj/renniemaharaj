@@ -36,7 +36,7 @@ I work primarily with **Go, TypeScript, React, PostgreSQL, and Linux**, alongsid
 - **[Windows VM](https://github.com/renniemaharaj/windowsvm)** - **Virtualization & Systems Automation.** QEMU/KVM virtualization and automation toolkit for running Windows on Linux, featuring host integration, file sharing, and MCP-based agent controls.
 - **[Superset Docker](https://github.com/renniemaharaj/superset-docker)** - **Data Infrastructure & Business Intelligence.** Containerized Apache Superset deployment with PostgreSQL, Redis, Nginx, and Google BigQuery integration.
 
-Open to collaborating on useful, well-engineered open-source software.
+Open to collaborating on useful, well-engineered open-source software. Interested in my services? I provide consulting and integrations charged at an hourly rate. The above projects are open source. I'm available to implement or support them for a small charge. I'm Looking forward to working with you!
 
 ### Contact
 
